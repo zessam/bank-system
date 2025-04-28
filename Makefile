@@ -1,4 +1,5 @@
-DB_URL=postgresql://postgres:postgres@localhost:5432/bank_system?sslmode=disable
+#port is 5433 for postgres 
+DB_URL=postgresql://postgres:postgres@localhost:5433/bank_system?sslmode=disable
 
 network:
 	docker network create bank-network

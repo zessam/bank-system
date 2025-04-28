@@ -5,6 +5,7 @@
         "migratedown",
         "migrateup",
         "sqlc",
-        "sslmode"
+        "sslmode",
+        "timestamptz"
     ]
 }
